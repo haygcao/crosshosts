@@ -36,9 +36,10 @@ Windows
 
 如果是Windows系统，用文本编辑器(如Notepad++|记事本)打开C:\Windows\System32\drivers\etc中的hosts文件，用下载好的hosts文件全部内容复制到C:\WINDOWS\system32\drivers\etc目录中的hosts文件中。或者用下载好的hosts文件粘帖和覆盖C:\WINDOWS\system32\drivers\etc目录中的hosts文件中。保存后通过开始 -> 运行 -> 输入cmd -> 在CMD窗口输入ipconfig /flushdns使其生效。
 
-注意：如果遇到无法保存，请右键hosts -> 属性 -> 安全，然后选择你登陆的用户名，最后点击编辑，勾选"写入"即可。
 
-注意：如果hosts文件中已经有内容，那么请把已有的内容追加到hosts文件末尾。
+Connector客户端
+
+使用方法：安装完成后打开APP，点击右边中间位置的“白色三角形”，选择“指定源”，再选择“网络”后点击确定，最后点击“一键Connector”即可（出现费否备份的界面点击否，不然长期下去手机内存会越来越小）
 
  **注意：Connector客户端根据反馈得知部分机型会出现无法下载显示红X，此时重新选定网络源之后再选择“添加Connector-网络-确定”，然后再点击一键安装** 
 
