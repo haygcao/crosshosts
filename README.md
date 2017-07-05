@@ -30,7 +30,7 @@ Android
 
 Mac
 
-如果是Mac系统，打开你的文件管理器（也就是Finder），然后，请按快捷键组合“Shift+Command+G”三个组合按键查找文件，并输入Hosts文件的所在路径：/etc/hosts，用下载好的hosts文件粘帖和覆盖该目录的hosts文件。然后终端输入sudo killall -HUP mDNSResponder使其生效。
+如果是Mac系统，打开你的文件管理器（也就是Finder），然后，请按快捷键组合“Shift+Command+G”三个组合按键查找文件，并输入Hosts文件的所在路径：/etc/hosts，用下载好的hosts文件粘帖覆盖该目录的hosts文件。然后终端输入sudo killall -HUP mDNSResponder使其生效。
 
 Windows
 
