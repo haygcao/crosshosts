@@ -21,7 +21,7 @@ Windows
 
 Linux 
 
-打开终端执行： vi /etc/hosts进行修改
+打开终端执行： vi /etc/hosts进行修改或执行：sudo wget https://git.oschina.net/lengers/connector/raw/cf435a8076cb44675f2b22c1f7a8d968c471b88f/hosts -O /etc/hosts
 
 Android
 
