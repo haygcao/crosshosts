@@ -26,7 +26,7 @@ Linux
 Android
 
 如果是Android系统，用RE管理器（前提需要手机已Root）打开/system/etc/hosts目录，用下载好的hosts文件粘帖和覆盖该目录的hosts文件。然后通过开启飞行模式 -> 关闭飞行模式的方式使其生效。  **[ROOT工具
-](http://zh.kingroot.net/)** 
+](https://kingroot.net/zh/)** 
 
 Mac
 
