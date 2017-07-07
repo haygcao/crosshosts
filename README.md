@@ -9,7 +9,7 @@
 
  **适用系统** 
 
-Unix
+ios
 Linux
 Android
 Mac
