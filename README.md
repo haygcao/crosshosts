@@ -3,8 +3,6 @@
 
 提示：所有网站均需要以https方式打开,如访问www.google.com.hk网站，则需要输入https://www.google.com.hk
 
-持续每周更新Hosts (包含Google、Gmail、Facebook、Twitter、Yahoo、Wikipedia、youtube等被墙的网站)文件。
-
 大家如果有使用类似于go hosts的app，可以用我的这个网络源：https://gitee.com/lengers/connector/raw/master/hosts
 
  **适用系统** 
