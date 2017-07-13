@@ -35,7 +35,7 @@ Windows
 如果是Windows系统，用文本编辑器(如Notepad++|记事本)打开C:\Windows\System32\drivers\etc中的hosts文件，用下载好的hosts文件全部内容复制到C:\WINDOWS\system32\drivers\etc目录中的hosts文件中。或者用下载好的hosts文件粘帖和覆盖C:\WINDOWS\system32\drivers\etc目录中的hosts文件中。保存后通过开始 -> 运行 -> 输入cmd -> 在CMD窗口输入ipconfig /flushdns使其生效。
 
 
-Connector 安卓客户端
+Connector 安卓客户端(基于GO hosts定制)
 
 使用方法：安装完成后打开APP，点击右边中间位置的“白色三角形”，选择“指定源”，再选择“网络”点击确定，之后再选择“添加Connector-网络-确定”，最后点击“一键Connector”即可（出现是否备份的界面时点击否，不然长期下去手机内存会越来越小）
 
