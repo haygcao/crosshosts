@@ -1,4 +1,4 @@
-#Hosts update+2017.07.15
+#Hosts update+2017.07.19
 
 #LocalHost start
 127.0.0.1	localhost
@@ -33,6 +33,48 @@
 23.11.30.25 contextual.media.net
 151.139.105.5 static.hotjar.com
 #reuters end
+
+#whatsapp start
+121.59.17.42 whatsapp.com
+121.59.17.42 www.whatsapp.com
+121.59.17.42 web.whatsapp.com
+121.59.17.42 api.whatsapp.com
+121.59.17.42 blog.whatsapp.com
+121.59.17.42 v.whatsapp.com
+121.59.17.42 media.whatsapp.com
+121.59.17.42 translate.whatsapp.com
+121.59.17.42 mms.whatsapp.net
+121.59.17.42 dyn.web.whatsapp.com
+121.59.17.42 m.whatsapp.com
+121.59.17.42 w0.whatsapp.com
+121.59.17.42 beta.whatsapp.com
+121.59.17.42 faq.whatsapp.com
+121.59.17.42 alpha.whatsapp.com
+121.59.17.42 account.whatsapp.com
+121.59.17.42 chat.whatsapp.com
+121.59.17.42 game.whatsapp.com
+121.59.17.42 openvpn.bjbgp.whatsapp.com
+121.59.17.42 e1.whatsapp.net
+121.59.17.42 e2.whatsapp.net
+121.59.17.42 e3.whatsapp.net
+121.59.17.42 e4.whatsapp.net
+121.59.17.42 e5.whatsapp.net
+121.59.17.42 e6.whatsapp.net
+121.59.17.42 e7.whatsapp.net
+121.59.17.42 e8.whatsapp.net
+121.59.17.42 e9.whatsapp.net
+121.59.17.42 e10.whatsapp.net
+121.59.17.42 e11.whatsapp.net
+121.59.17.42 e12.whatsapp.net
+121.59.17.42 e13.whatsapp.net
+121.59.17.42 e14.whatsapp.net
+121.59.17.42 e15.whatsapp.net
+121.59.17.42 e16.whatsapp.net
+121.59.17.42 e17.whatsapp.net
+121.59.17.42 e18.whatsapp.net
+121.59.17.42 e19.whatsapp.net
+121.59.17.42 e20.whatsapp.net
+#whatsapp end
 
 #quora start
 34.224.108.165 quora.com
@@ -85,22 +127,6 @@
 93.184.220.96 style.sndcdn.com
 52.222.238.162	va.sndcdn.com
 # SoundCloud End
-#pornhub start
-31.192.120.36 jp.pornhub.com
-31.192.120.36 www.pornhub.com
-31.192.120.36 pornhub.com
-203.77.191.86 bi.phncdn.com
-104.17.17.97 cdn.doublepimpssl.com
-216.18.168.25 cdn1-smallimg.phncdn.com
-205.185.208.142 cdn1d-static-shared.phncdn.com
-205.185.208.142 dl.phncdn.com
-152.195.33.132 ci.phncdn.com
-152.195.33.132 cl.phncdn.com
-216.18.168.28 hubt.pornhub.com
-207.178.0.72 m1.nsimg.net
-207.178.0.72 m2.nsimg.net
-205.185.208.85 media.trafficjunky.net
-#pornhub end
 
 #Dropbox Start
 121.59.17.41	dropbox.com
@@ -506,6 +532,7 @@
 
 #telegram start
 121.59.17.42 telegram.org
+121.59.17.42 www.telegram.org
 121.59.17.42 desktop.telegram.org
 121.59.17.42 core.telegram.org
 121.59.17.42 macos.telegram.org
