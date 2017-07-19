@@ -1,7 +1,7 @@
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0627/115003_625032bf_1285254.png "在这里输入图片标题")
 **说明** 
 
-提示：所有网站均需要以https方式打开,如访问www.google.com.hk网站，则需要输入https://www.google.com.hk
+提示：所有网站均需要以https方式打开
 
 大家如果有使用类似于go hosts的app，可以用我的这个网络源：https://gitee.com/lengers/connector/raw/master/hosts
 
