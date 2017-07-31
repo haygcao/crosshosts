@@ -1,4 +1,4 @@
-#Hosts update+2017.07.24
+#Hosts update+2017.07.31
 
 #LocalHost start
 127.0.0.1	localhost
@@ -16,13 +16,24 @@
 23.219.135.150 p.typekit.net
 #resilio end
 
+#flipboard.com start
+121.59.17.45 flipboard.com
+121.59.17.45 www.flipboard.com
+121.59.17.45 cdn.flipboard.com
+121.59.17.45 s.flipboard.com
+121.59.17.45 ue.flipboard.com
+121.59.17.45 beacon.flipboard.com
+121.59.17.45 fbprod.flipboard.com
+121.59.17.45 ue-test.flipboard.com
+#flipboard.com end
+
 #akamai start
 72.246.103.10 a248.e.akamai.net
 #akamai end
 
 #reuters start
 54.192.212.27 cn.reuters.com
-183.91.33.45 charts.reuters.com
+218.254.1.15 charts.reuters.com
 54.238.221.186 reuters.demdex.net
 54.192.212.101 s1.reutersmedia.net
 54.192.212.101 s2.reutersmedia.net
@@ -100,32 +111,32 @@
 151.101.8.84 www.pinterest.com
 151.101.128.84 pinterest.com
 151.101.8.84 s.pinimg.com
-183.91.33.45 sdk.accountkit.com
+218.254.1.15 sdk.accountkit.com
 23.76.206.147 s-media-cache-ak0.pinimg.com
 103.6.85.35 radar.cedexis.com
 151.101.0.84 analytics.pinterest.com
 #pinterest end
 
 # SoundCloud Start
-52.85.121.4	soundcloud.com
-52.85.121.91 www.soundcloud.com
-93.184.220.127 m.soundcloud.com
-52.84.200.248 api.soundcloud.com
-52.222.195.254 api-mobile.soundcloud.com
-52.84.200.22 api-v2.soundcloud.com
-104.196.1.106 blog.soundcloud.com
-93.184.221.167	ec-media.soundcloud.com
-219.76.4.69	ec-rtmp-media.soundcloud.com
-52.84.200.192 on.soundcloud.com
-52.85.121.124 promoted.soundcloud.com
-54.230.181.178 visuals.soundcloud.com
-54.192.212.16 a1.sndcdn.com
-54.230.181.89 a-v2.sndcdn.com
-54.192.212.169 cf-media.sndcdn.com
-93.184.221.77 ec-media.sndcdn.com
-93.184.220.96 ec-preview-media.sndcdn.com
-93.184.220.96 style.sndcdn.com
-52.222.238.162	va.sndcdn.com
+121.59.17.43 soundcloud.com
+121.59.17.43 www.soundcloud.com
+121.59.17.43 m.soundcloud.com
+121.59.17.43 api.soundcloud.com
+121.59.17.43 api-mobile.soundcloud.com
+121.59.17.43 api-v2.soundcloud.com
+121.59.17.43 blog.soundcloud.com
+121.59.17.43 ec-media.soundcloud.com
+121.59.17.43 ec-rtmp-media.soundcloud.com
+121.59.17.43 on.soundcloud.com
+121.59.17.43 promoted.soundcloud.com
+121.59.17.43 visuals.soundcloud.com
+121.59.17.43 a1.sndcdn.com
+121.59.17.43 a-v2.sndcdn.com
+121.59.17.43 cf-media.sndcdn.com
+121.59.17.43 ec-media.sndcdn.com
+121.59.17.43 ec-preview-media.sndcdn.com
+121.59.17.43 style.sndcdn.com
+121.59.17.43 va.sndcdn.com
 # SoundCloud End
 
 #pornhub start
@@ -242,26 +253,26 @@
 #Line end
 
 #Instagram Start
-157.240.7.52	instagram.com
-157.240.7.52	www.instagram.com
-157.240.7.52	i.instagram.com
-157.240.7.52	api.instagram.com
-157.240.7.52	help.instagram.com
-157.240.7.52	blog.instagram.com
-157.240.7.52	logger.instagram.com
-157.240.7.52	badges.instagram.com
-157.240.7.52	maps.instagram.com
-157.240.7.52	scontent.cdninstagram.com
-157.240.7.52	scontent-a.cdninstagram.com
-157.240.7.52	scontent-b.cdninstagram.com
-157.240.7.52	scontent-sea1-1.cdninstagram.com
-157.240.7.52	scontent-hkg3-1.cdninstagram.com
-157.240.7.52	scontent-fra3-1.cdninstagram.com
-157.240.7.52	scontent-sit4-1.cdninstagram.com
-157.240.7.52	graph.instagram.com
-173.252.108.3	telegraph-ash.instagram.com
-34.198.77.204	telegraph-tiproxy.instagram.com
-157.240.11.52	platform.instagram.com
+121.59.17.38	instagram.com
+121.59.17.38	www.instagram.com
+121.59.17.38	i.instagram.com
+121.59.17.38	api.instagram.com
+121.59.17.38	help.instagram.com
+121.59.17.38	blog.instagram.com
+121.59.17.38	logger.instagram.com
+121.59.17.38	badges.instagram.com
+121.59.17.38	maps.instagram.com
+121.59.17.38	scontent.cdninstagram.com
+121.59.17.38	scontent-a.cdninstagram.com
+121.59.17.38	scontent-b.cdninstagram.com
+121.59.17.38	scontent-sea1-1.cdninstagram.com
+121.59.17.38	scontent-hkg3-1.cdninstagram.com
+121.59.17.38	scontent-fra3-1.cdninstagram.com
+121.59.17.38	scontent-sit4-1.cdninstagram.com
+121.59.17.38	graph.instagram.com
+121.59.17.38	telegraph-ash.instagram.com
+121.59.17.38	telegraph-tiproxy.instagram.com
+121.59.17.38	platform.instagram.com
 184.51.15.142	igcdn-photos-a-a.akamaihd.net
 184.51.15.142	igcdn-photos-b-a.akamaihd.net
 184.51.15.142	igcdn-photos-c-a.akamaihd.net
@@ -500,20 +511,20 @@
 #Godaddy end
 
 #Tumblr Start
-66.6.32.31	tumblr.com
-107.23.241.100 tumblr.co
-119.161.6.14 api.tumblr.com
-119.161.6.13 www.tumblr.com
-192.229.237.97 mx.tumblr.com
-87.248.114.14 vt.tumblr.com
-87.248.114.14 vtt.tumblr.com
-66.6.32.162	ls.srvcs.tumblr.com
-66.6.32.162	px.srvcs.tumblr.com
-119.161.6.12 assets.tumblr.com
-119.161.6.12 secure.assets.tumblr.com
-119.161.6.13 secure.static.tumblr.com
-119.161.6.13 media.tumblr.com
-119.161.14.20 static.tumblr.com
+121.59.17.37 tumblr.com
+121.59.17.37 tumblr.co
+121.59.17.37 api.tumblr.com
+121.59.17.37 www.tumblr.com
+121.59.17.37 mx.tumblr.com
+121.59.17.37 vt.tumblr.com
+121.59.17.37 vtt.tumblr.com
+121.59.17.37 ls.srvcs.tumblr.com
+121.59.17.37 px.srvcs.tumblr.com
+121.59.17.37 assets.tumblr.com
+121.59.17.37 secure.assets.tumblr.com
+121.59.17.37 secure.static.tumblr.com
+121.59.17.37 media.tumblr.com
+121.59.17.37 static.tumblr.com
 216.115.100.126	31.media.tumblr.com
 216.115.100.126	33.media.tumblr.com
 216.115.100.126	37.media.tumblr.com
@@ -928,13 +939,13 @@
 #Psiphon end
 
 # Archive Start
-121.59.17.41	archive.org
-121.59.17.41	www.archive.org
-121.59.17.41	analytics.archive.org
-121.59.17.41	ia802704.us.archive.org
-121.59.17.41	web-beta.archive.org
-121.59.17.41	wwwb-sentry.us.archive.org
-121.59.17.41	web.archive.org
+121.59.17.42	archive.org
+121.59.17.42	www.archive.org
+121.59.17.42	analytics.archive.org
+121.59.17.42	ia802704.us.archive.org
+121.59.17.42	web-beta.archive.org
+121.59.17.42	wwwb-sentry.us.archive.org
+121.59.17.42	web.archive.org
 # Archive End
 #VPS Hosted start
 104.16.110.208 digitalocean.com
@@ -1011,11 +1022,6 @@
 23.65.183.218	blog.disqus.com
 23.65.183.218	publishers.disqus.com
 # Disqus End
-
-# FlipBoard start
-54.225.64.251	beacon.flipboard.com
-54.225.64.251	fbprod.flipboard.com
-# FlipBoard End
 
 # HumbleBundle Start
 5.153.35.171	humble.pubnub.com
@@ -1287,7 +1293,7 @@
 #i2p start
 91.143.92.136 geti2p.net
 91.143.92.136 www.geti2p.net
-183.91.33.45 download.i2p2.de
+121.59.17.43 download.i2p2.de
 #i2p end
 
 #openvpn start
@@ -1380,6 +1386,8 @@
 183.91.33.51	chart.googleapis.com
 183.91.33.51	content.googleapis.com
 183.91.33.51	khms0.googleapis.com
+183.91.33.51    panoramio.com.storage.googleapis.com
+183.91.33.51    static.panoramio.com.storage.googleapis.com
 183.91.33.51	khms1.googleapis.com
 183.91.33.51 mclients.googleapis.com
 183.91.33.51 chromedriver.storage.googleapis.com
@@ -2175,6 +2183,117 @@
 183.91.33.51	chromoting-host.talkgadget.google.com
 183.91.33.51	chromoting-client.talkgadget.google.com
 183.91.33.51	contacts.google.com
+183.91.33.51    enterprise.google.com
+183.91.33.51    imasdk.googleapis.com
+183.91.33.51    blogsearch.google.us
+183.91.33.51    otvety.google.ru
+183.91.33.51	onetoday.google.com
+183.91.33.51	notifications.google.com
+183.91.33.51	chatenabled.mail.google.com
+183.91.33.51	filetransferenabled.mail.google.com
+183.91.33.51	gmail.google.com
+183.91.33.51	googlemail.l.google.com
+183.91.33.51	inbox.google.com
+183.91.33.51	isolated.mail.google.com
+183.91.33.51	m.gmail.com
+183.91.33.51	m.googlemail.com
+183.91.33.51	mail.google.com
+183.91.33.51	www.gmail.com
+183.91.33.51	mail-settings.google.com
+183.91.33.51	m.android.com
+#Google end
+
+# Kobo Start
+128.127.159.1	magazines-adf.kobo.com
+157.55.176.209	social.kobobooks.com
+191.236.35.232	storedownloads.kobo.com
+191.238.229.33	discovery.kobobooks.com
+204.87.189.12	images.kobobooks.com
+204.87.189.201	ftp.kobobooks.com
+204.87.189.51	kobobooks.com
+204.87.189.51	prod-www.kobobooks.com
+204.87.189.71	ecimagest.kobobooks.com
+204.87.189.87	prod-store.kobobooks.com
+204.87.189.92	kobo.com
+13.92.121.97	kobomaintenance.kobobooks.com
+23.227.38.32	au.kobobooks.com
+23.227.38.32	ca-fr.kobobooks.com
+23.227.38.32	ca.kobobooks.com
+23.227.38.32	corporate.kobobooks.com
+23.227.38.32	de.kobobooks.com
+23.227.38.32	es.kobobooks.com
+23.227.38.32	fr.kobobooks.com
+23.227.38.32	gl.kobobooks.com
+23.227.38.32	it.kobobooks.com
+23.227.38.32	nz.kobobooks.com
+23.227.38.32	pt.kobobooks.com
+23.227.38.32	uk.kobobooks.com
+23.227.38.32	us.kobobooks.com
+23.38.96.57	akimages.kobobooks.com
+23.38.96.57	api.kobobooks.com
+23.38.96.57	esmx.kobobooks.com
+23.38.96.57	esmxsecure.kobobooks.com
+23.38.96.57	merch.kobobooks.com
+23.38.96.57	mobile.kobobooks.com
+23.38.96.57	mobilepartner.kobobooks.com
+23.38.96.57	mobilestage.kobobooks.com
+23.38.96.57	partner.kobobooks.com
+23.38.96.57	ptbr.kobobooks.com
+23.38.96.57	ptbrsecure.kobobooks.com
+23.38.96.57	ratingsapi.kobobooks.com
+23.38.96.57	read.kobobooks.com
+23.38.96.57	secure.kobobooks.com
+23.38.96.57	services.kobobooks.com
+23.38.96.57	store.kobobooks.com
+23.38.96.57	tr.kobobooks.com
+23.38.96.57	webstore.kobobooks.com
+23.38.96.57	webstore2.kobobooks.com
+23.38.96.57	writinglife.kobobooks.com
+23.38.96.57	www.kobobooks.com
+23.38.99.249	assets.kobo.com
+23.38.99.249	de.kobo.com
+23.38.99.249	es.kobo.com
+23.38.99.249	fr.kobo.com
+23.38.99.249	it.kobo.com
+23.38.99.249	ja.kobo.com
+23.38.99.249	nl.kobo.com
+23.38.99.249	pt.kobo.com
+23.38.99.249	ptbr.kobo.com
+23.38.99.249	read.kobo.com
+23.38.99.249	rum.kobo.com
+23.38.99.249	stage.kobo.com
+23.38.99.249	storeapi.kobo.com
+23.38.99.249	tw.kobo.com
+23.38.99.249	www.kobo.com
+40.114.86.114	sorry.kobo.com
+75.98.196.99	media.kobobooks.com
+88.221.15.40	contentdownloads.kobobooks.com
+88.221.15.40	get.kobobooks.com
+88.221.15.50	ecimages.kobobooks.com
+88.221.15.50	ecmimages.kobobooks.com
+89.187.65.68	insiders.kobo.com
+# Kobo End
+
+# slideshare Start
+103.20.93.138	www.slideshare.net
+103.20.93.138	slideshare.net
+103.20.93.138	de.slideshare.net
+103.20.93.138	engineering.slideshare.net
+103.20.93.138	es.slideshare.net
+103.20.93.138	fr.slideshare.net
+103.20.93.138	pt.slideshare.net
+103.20.93.138	blog.slideshare.net
+# slideshare End
+
+# autodraw Start
+183.91.33.51	www.autodraw.com
+# autodraw End
+
+#googleother1 start
+183.91.33.51    beacons.gvt2.com
+183.91.33.51    beacons.gcp.gvt2.com
+183.91.33.51    beacons5.gvt3.com
+183.91.33.51    beacons2.gvt2.com
 183.91.33.51	youtube.com
 183.91.33.51	www.youtube.com
 183.91.33.51	au.youtube.com
@@ -3595,7 +3714,6 @@
 183.91.33.51	hangouts.google.com
 183.91.33.51	hangout.google.com
 183.91.33.51	0.talkgadget.google.com
-183.91.33.51 cloudconfig.googleapis.com
 183.91.33.51	chromoting-oauth.talkgadget.google.com
 183.91.33.51	chromoting-host.talkgadget.google.com
 183.91.33.51	chromoting-client.talkgadget.google.com
@@ -7711,39 +7829,39 @@
 #dcard end
 
 #dailymotion start
-183.91.33.45 s1-ssl.dmcdn.net
-183.91.33.45 static1-ssl.dmcdn.net
-183.91.33.45 www.dailymotion.com
-183.91.33.45 jobs.dailymotion.com
-183.91.33.45 mc.dailymotion.com
-183.91.33.45 dailymotion.com
-183.91.33.45 api.dmcdn.net
-183.91.33.45 s2-ssl.dmcdn.net
-183.91.33.45 s2.dmcdn.net
-183.91.33.45 s1.dmcdn.net
-183.91.33.45 static2-ssl.dmcdn.net
-183.91.33.45 logger-01.vty.dailymotion.com
-183.91.33.45 logger-02.vty.dailymotion.com
-183.91.33.45 proxy-1.sg1.dailymotion.com
-183.91.33.45 proxy-2.sg1.dailymotion.com
-183.91.33.45 proxy-3.sg1.dailymotion.com
-183.91.33.45 proxy-4.sg1.dailymotion.com
-183.91.33.45 proxy-5.sg1.dailymotion.com
-183.91.33.45 proxy-6.sg1.dailymotion.com
-183.91.33.45 proxy-14.sg1.dailymotion.com
-183.91.33.45 proxy-15.sg1.dailymotion.com
-183.91.33.45 proxy-35.sg1.dailymotion.com
-183.91.33.45 proxy-36.sg1.dailymotion.com
-183.91.33.45 logger-04.vty.dailymotion.com
-183.91.33.45 proxy-01.sg1.dailymotion.com
-183.91.33.45 proxy-02.sg1.dailymotion.com
-183.91.33.45 proxy-03.sg1.dailymotion.com
-183.91.33.45 proxy-04.sg1.dailymotion.com
-183.91.33.45 proxy-05.sg1.dailymotion.com
-183.91.33.45 proxy-12.sg1.dailymotion.com
-183.91.33.45 proxy-13.sg1.dailymotion.com
-183.91.33.45 proxy-14.sg1.dailymotion.com
-183.91.33.45 proxy-15.sg1.dailymotion.com
+218.254.1.15 s1-ssl.dmcdn.net
+218.254.1.15 static1-ssl.dmcdn.net
+218.254.1.15 www.dailymotion.com
+218.254.1.15 jobs.dailymotion.com
+218.254.1.15 mc.dailymotion.com
+218.254.1.15 dailymotion.com
+218.254.1.15 api.dmcdn.net
+218.254.1.15 s2-ssl.dmcdn.net
+218.254.1.15 s2.dmcdn.net
+218.254.1.15 s1.dmcdn.net
+218.254.1.15 static2-ssl.dmcdn.net
+218.254.1.15 logger-01.vty.dailymotion.com
+218.254.1.15 logger-02.vty.dailymotion.com
+218.254.1.15 proxy-1.sg1.dailymotion.com
+218.254.1.15 proxy-2.sg1.dailymotion.com
+218.254.1.15 proxy-3.sg1.dailymotion.com
+218.254.1.15 proxy-4.sg1.dailymotion.com
+218.254.1.15 proxy-5.sg1.dailymotion.com
+218.254.1.15 proxy-6.sg1.dailymotion.com
+218.254.1.15 proxy-14.sg1.dailymotion.com
+218.254.1.15 proxy-15.sg1.dailymotion.com
+218.254.1.15 proxy-35.sg1.dailymotion.com
+218.254.1.15 proxy-36.sg1.dailymotion.com
+218.254.1.15 logger-04.vty.dailymotion.com
+218.254.1.15 proxy-01.sg1.dailymotion.com
+218.254.1.15 proxy-02.sg1.dailymotion.com
+218.254.1.15 proxy-03.sg1.dailymotion.com
+218.254.1.15 proxy-04.sg1.dailymotion.com
+218.254.1.15 proxy-05.sg1.dailymotion.com
+218.254.1.15 proxy-12.sg1.dailymotion.com
+218.254.1.15 proxy-13.sg1.dailymotion.com
+218.254.1.15 proxy-14.sg1.dailymotion.com
+218.254.1.15 proxy-15.sg1.dailymotion.com
 #dailymotion end
 
 #Youtube-stream-start
@@ -29800,28 +29918,55 @@
 
 -----------------------advert blocking-------------------------------
 #优酷
-127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
-127.0.0.1 themis.ykimg.com
-127.0.0.1 hudong.pl.youku.com
-127.0.0.1 m.yes.youku.com
-127.0.0.1 myes.youku.com
-127.0.0.1 p.l.youku.com
-127.0.0.1 player.lstat.youku.com
-127.0.0.1 r.l.youku.com
-127.0.0.1 v.l.youku.com
-127.0.0.1 cm.miaozhen.atm.youku.com
+127.0.0.1 adp.atm.youku.com
+127.0.0.1 iyes.youku.com
+127.0.0.1 m.atm.youku.com
+127.0.0.1 mf.atm.youku.com
+127.0.0.1 mobilemsg.youku.com
+127.0.0.1 push.m.youku.com
+127.0.0.1 bsv.atm.youku.com
+127.0.0.1 count.atm.youku.com
 127.0.0.1 html.atm.youku.com
 127.0.0.1 ipm.atm.youku.com
-127.0.0.1 miaozhen.atm.youku.com
-127.0.0.1 static.atm.youku.com
 127.0.0.1 v2html.atm.youku.com
 127.0.0.1 val.atm.youku.com
 127.0.0.1 valb.atm.youku.com
 127.0.0.1 valc.atm.youku.com
-127.0.0.1 valo.atm.youku.com
-127.0.0.1 valp.atm.youku.com
-127.0.0.1 ad.api.3g.youku.com
-127.0.0.1 ad.api.3g.tudou.com
 127.0.0.1 valf.atm.youku.com
-127.0.0.1 mf.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 valt.atm.youku.com
+127.0.0.1 p.l.youku.com
+127.0.0.1 r.l.youku.com
+127.0.0.1 dmapp.youku.com
+127.0.0.1 service.danmu.youku.com
+127.0.0.1 api.gamex.mobile.youku.com
+127.0.0.1 myes.youku.com
+127.0.0.1 ad.api.3g.youku.com
+127.0.0.1 ad.api.mobile.youku.com
+127.0.0.1 b.smartvideo.youku.com
+127.0.0.1 c.l.youku.com
+127.0.0.1 c.yes.youku.com
+127.0.0.1 cm.atm.youku.com
+127.0.0.1 cm.miaozhen.atm.youku.com
+127.0.0.1 guanggaoad.youku.com
+127.0.0.1 lstat.youku.com
+127.0.0.1 m.yes.youku.com
+127.0.0.1 mb.atm.youku.com
+127.0.0.1 mi.atm.youku.com
+127.0.0.1 miaozhen.atm.youku.com
+127.0.0.1 mo.atm.youku.com
+127.0.0.1 mp.atm.youku.com
+127.0.0.1 notify.youku.com
+127.0.0.1 passport-log.youku.com
+127.0.0.1 player.lstat.youku.com
+127.0.0.1 s.p.youku.com
+127.0.0.1 sdk.api.gamex.mobile.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 static.atm.youku.com
+127.0.0.1 store.tv.api.3g.youku.com
+127.0.0.1 store.xl.api.3g.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 v.l.youku.com
+127.0.0.1 valo.atm.youku.com
+127.0.0.1 wan.youku.com
 --------------------------The End------------------------------------
